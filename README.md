@@ -1,6 +1,14 @@
-# Dev Feud Vote (quasar-vote)
+# ITB-2022 BoxWars Game
 
-Dev Feud Voting App
+This repo is part of a presentation by Gavin Pickin at ITB 2022
+
+For the slides and all the code, please visit the link below.
+
+https://github.com/gpickin/ITB-2022-BoxWarsGame-presentation
+
+# VueJS Vote UI (quasar-vote)
+
+Voting App
 
 ## Install the dependencies
 
